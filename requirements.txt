@@ -1,0 +1,14 @@
+vosk
+sounddevice
+pyttsx3
+apscheduler
+dateparser
+spotipy
+selenium
+webdriver-manager
+pywinauto
+pywin32
+comtypes
+pycaw
+psutil
+anthropic
